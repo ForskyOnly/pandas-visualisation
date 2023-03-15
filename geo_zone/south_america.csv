@@ -1,0 +1,13 @@
+﻿Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code (CPC),Item,Year Code,Year,Unit,Value,Flag,Flag Description
+"FBS","Food Balances (2010-)","032","Argentina","511","Total Population - Both sexes","S2501","Population","2019","2019","1000 persons","44780.68","X","Figure from international organizations"
+"FBS","Food Balances (2010-)","068","Bolivia (Plurinational State of)","511","Total Population - Both sexes","S2501","Population","2019","2019","1000 persons","11513.1","X","Figure from international organizations"
+"FBS","Food Balances (2010-)","076","Brazil","511","Total Population - Both sexes","S2501","Population","2019","2019","1000 persons","211049.53","X","Figure from international organizations"
+"FBS","Food Balances (2010-)","152","Chile","511","Total Population - Both sexes","S2501","Population","2019","2019","1000 persons","18952.04","X","Figure from international organizations"
+"FBS","Food Balances (2010-)","170","Colombia","511","Total Population - Both sexes","S2501","Population","2019","2019","1000 persons","50339.44","X","Figure from international organizations"
+"FBS","Food Balances (2010-)","218","Ecuador","511","Total Population - Both sexes","S2501","Population","2019","2019","1000 persons","17373.66","X","Figure from international organizations"
+"FBS","Food Balances (2010-)","328","Guyana","511","Total Population - Both sexes","S2501","Population","2019","2019","1000 persons","782.77","X","Figure from international organizations"
+"FBS","Food Balances (2010-)","600","Paraguay","511","Total Population - Both sexes","S2501","Population","2019","2019","1000 persons","7044.64","X","Figure from international organizations"
+"FBS","Food Balances (2010-)","604","Peru","511","Total Population - Both sexes","S2501","Population","2019","2019","1000 persons","32510.45","X","Figure from international organizations"
+"FBS","Food Balances (2010-)","740","Suriname","511","Total Population - Both sexes","S2501","Population","2019","2019","1000 persons","581.37","X","Figure from international organizations"
+"FBS","Food Balances (2010-)","858","Uruguay","511","Total Population - Both sexes","S2501","Population","2019","2019","1000 persons","3461.73","X","Figure from international organizations"
+"FBS","Food Balances (2010-)","862","Venezuela (Bolivarian Republic of)","511","Total Population - Both sexes","S2501","Population","2019","2019","1000 persons","28515.83","X","Figure from international organizations"
